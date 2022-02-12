@@ -1,0 +1,14 @@
+html, body {
+  margin: 0;
+  padding: 0;
+ background-color: rgb(19, 18, 18);
+  font-family: 'Courier';
+  color: rgb(255, 255, 255);
+  font-size: 10pt;
+  line-height: 12pt;
+  display: inline
+}
+
+canvas {
+  display: block;
+}
